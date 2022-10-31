@@ -1,1 +1,3 @@
-# matrix
+# Matrix
+
+``npx http-server``
